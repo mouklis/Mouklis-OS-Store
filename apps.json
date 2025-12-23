@@ -1,18 +1,41 @@
 [
   {
     "id": 1,
-    "name": "Test App",
-    "description": "هذا تطبيق تجريبي لنظام موكلس",
-    "version": "1.0",
-    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg",
-    "download_url": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/main/apks/app-debug.apk"
+    "packageName": "com.moklas.sayedali",
+    "name": "Mouklis Camera",
+    "category": "Tools",
+    "description": "أفضل كاميرا لنظام موكلس، تدعم التصوير الليلي.",
+    "rating": 4.9,
+    "iconUrl": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/main/apks/camera_icon.png",
+    "coverUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+    "screenshots": [],
+    "downloadUrl": "https://github.com/mouklis/.../SayedAli.apk",
+    "isFeatured": true
   },
   {
     "id": 2,
-    "name": "Mouklis Camera",
-    "description": "كاميرا نظام موكلس الرسمية - الإصدار الأول",
-    "version": "1.0",
-    "icon_url": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/main/apks/MouklisOS.png",
-    "download_url": "https://github.com/mouklis/Mouklis-OS-Store/releases/download/v1.0/SayedAli.apk"
+    "packageName": "com.example.space",
+    "name": "Space Shooter",
+    "category": "Games",
+    "description": "لعبة حرب الفضاء الممتعة.",
+    "rating": 4.5,
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3408/3408506.png",
+    "coverUrl": "",
+    "screenshots": [],
+    "downloadUrl": "...",
+    "isFeatured": false
+  },
+  {
+    "id": 3,
+    "packageName": "com.example.pdf",
+    "name": "PDF Reader",
+    "category": "Books",
+    "description": "قارئ الكتب السريع.",
+    "rating": 4.2,
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+    "coverUrl": "",
+    "screenshots": [],
+    "downloadUrl": "...",
+    "isFeatured": false
   }
 ]
