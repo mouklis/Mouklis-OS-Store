@@ -4,7 +4,15 @@
     "name": "Test App",
     "description": "هذا تطبيق تجريبي لنظام موكلس",
     "version": "1.0",
-    "icon_url": "",
-    "download_url": ""
+    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg",
+    "download_url": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/main/apks/app-debug.apk"
+  },
+  {
+    "id": 2,
+    "name": "Mouklis Camera",
+    "description": "كاميرا نظام موكلس الرسمية - الإصدار الأول",
+    "version": "1.0",
+    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg",
+    "download_url": "https://github.com/mouklis/Mouklis-OS-Store/releases/download/v1.0/SayedAli.apk"
   }
 ]
