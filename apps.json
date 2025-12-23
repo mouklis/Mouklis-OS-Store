@@ -12,7 +12,7 @@
     "name": "Mouklis Camera",
     "description": "كاميرا نظام موكلس الرسمية - الإصدار الأول",
     "version": "1.0",
-    "icon_url": "https://github.com/mouklis/Mouklis-OS-Store/blob/main/apks/MouklisOS.png",
+    "icon_url": "https://github.com/mouklis/Mouklis-OS-Store/blob/main/apks/MouklisOS.png?raw=true",
     "download_url": "https://github.com/mouklis/Mouklis-OS-Store/releases/download/v1.0/SayedAli.apk"
   }
 ]
