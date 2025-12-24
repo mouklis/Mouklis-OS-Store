@@ -4,10 +4,10 @@
     "packageName": "com.moklas.sayedali",
     "name": "Mouklis Camera",
     "category": "Tools",
-    "description": "كاميرا نظام موكلس الرسمية. تمتاز بالسرعة والخصوصية ودعم التصوير الليلي.",
+    "description": "تطبيق موكلس لرسم والتصميم قمة في الابداع والروقان الان سوف يكون هو المصدر الملهم لمشاريعك في التصميم.",
     "rating": 4.9,
     "iconUrl": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/main/apks/camera_icon.png",
-    "coverUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+    "coverUrl": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mouklispint.png",
     "screenshots": [],
     "downloadUrl": "https://github.com/mouklis/Mouklis-OS-Store/releases/download/v1.0/SayedAli.apk",
     "isFeatured": true
