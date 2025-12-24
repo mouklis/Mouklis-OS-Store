@@ -9,11 +9,11 @@
     "iconUrl": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/main/apks/camera_icon.png",
     "coverUrl": "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mouklispint.png",
     "screenshots": [
-                 https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo2.png
-                 https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo1.png
-                 https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo3.png
-                 https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo4.png
-                 https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo5.png
+      "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo2.png",
+      "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo1.png",
+      "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo3.png",
+      "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo4.png",
+      "https://raw.githubusercontent.com/mouklis/Mouklis-OS-Store/refs/heads/main/mo5.png"
     ],
     "downloadUrl": "https://github.com/mouklis/Mouklis-OS-Store/releases/download/v1.0/SayedAli.apk",
     "isFeatured": true
